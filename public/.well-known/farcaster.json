@@ -1,18 +1,18 @@
 {
   "accountAssociation": {
-    "header": "paste-your-header-here-inside-the-quotes",
-    "payload": "paste-your-payload-here-inside-the-quotes",
-    "signature": "paste-your-signature-here-inside-the-quotes"
+    "header": "eyJmaWQiOjIzOTQzNiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQ2MDgzNjRiMTZDMWE1OTdFMzUyNzUzZEE4NTc4YmMxM2I1RjBhYjYifQ",
+    "payload": "eyJkb21haW4iOiJnbS1iYXNlLW5pbmUudmVyY2VsLmFwcCJ9",
+    "signature": "b8jBPx00IetmSJF22YcHts5hv7c+XtL2nnSw6PreFx0xOKJpYSNIlAB9iiTmwBJ6kBn8pKwmWp/emMeu4Mwrnhs="
   },
   "miniapp": {
     "version": "1",
-    "name": "GM Base",
-    "iconUrl": "https://base-gm.vercel.app/icon.jpg",
-    "homeUrl": "https://base-gm.vercel.app",
-    "imageUrl": "https://base-gm.vercel.app/og-image.jpg",
-    "splashImageUrl": "https://base-gm.vercel.app/splash.jpg",
+    "name": "GM GM Base Nine",
+    "iconUrl": "https://gm-base-nine.vercel.app/icon.jpg",
+    "homeUrl": "https://gm-base-nine.vercel.app/",
+    "imageUrl": "https://gm-base-nine.vercel.app/og-image.jpg",
+    "splashImageUrl": "https://gm-base-nine.vercel.app/splash.jpg",
     "splashBackgroundColor": "#581c87",
     "primaryCategory": "social",
-    "tags": ["social", "daily", "gm", "streak", "base"]
+    "tags": ["gm", "streak", "base", "daily", "social"]
   }
 }
